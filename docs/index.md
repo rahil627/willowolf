@@ -1,6 +1,6 @@
 yo.
 
-this site contains the a few wills of [ra](https://rathewolf.com).
+this site contains a few wills of [rathewolf](https://rathewolf.com).
 
 it's holds the sites of digital orgnaizations 'n tools i've began/made for *the people*.
 
