@@ -1,6 +1,8 @@
 yo.
 
-this site contains the digital wills of [ra](rathewolf.com). it's a place to sites for digital orgnaizations 'n tools meant for *the people*.
+this site contains the public-facing digital wills of [ra](rathewolf.com).
+
+it's holds the sites for digital orgnaizations and their tools, all made for *the people*.
 
 #### digital organizations
 these are the sites for the various digital organizations i've began, each one with a specific shared interest.
