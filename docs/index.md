@@ -1,6 +1,6 @@
 yo.
 
-this site contains the public-facing digital wills of [ra](rathewolf.com).
+this site contains the public-facing digital wills of [ra(thewolf)](rathewolf.com).
 
 it's holds the sites of digital orgnaizations 'n tools i've began/made for *the people*.
 
