@@ -1,6 +1,6 @@
 yo.
 
-this site contains the public-facing digital wills of [ra](rathewolf.com).
+this site contains the public-facing digital wills of [ra](https://rathewolf.com).
 
 it's holds the sites of digital orgnaizations 'n tools i've began/made for *the people*.
 
@@ -9,9 +9,9 @@ these are sites for various digital organizations i've began, each one with a sp
 
 all should share good values: community-building, diy, punk, anarchy, feminist theory, etc.
 
-- [mountain willowolf](mountain.willowolf.com) R&Ds ways to make a better world :) :)
-- [forest willowolf](forest.willowolf.com) R&Ds experimental games
-- [desert willowolf](desert.willowolf.com) R&Ds fighting games
+- [mountain willowolf](https://mountain.willowolf.com) R&Ds ways to make a better world :) :)
+- [forest willowolf](https://forest.willowolf.com) R&Ds experimental games
+- [desert willowolf](https://desert.willowolf.com) R&Ds fighting games
 
 #### tools
 ...
