@@ -9,9 +9,9 @@ these are sites for various digital organizations i've began, each one with a sp
 
 all should share good values: community-building, diy, punk, anarchy, feminist theory, etc.
 
-- [mountain willowolf](https://mountain.willowolf.com) R&D&<3s ways to make a better world :) :)
-- [forest willowolf](https://forest.willowolf.com) R&D&<3s experimental games
-- [desert willowolf](https://desert.willowolf.com) R&D&<3s fighting games
+- [mountain willowolf](https://mountain.willowolf.com) researches 'n develops ways to make a better world :) :)
+- [forest willowolf](https://forest.willowolf.com) researches, develops, 'n loves experimental games
+- [desert willowolf](https://desert.willowolf.com) researches, develops, 'n loves fighting games
 
 #### tools
 ...
