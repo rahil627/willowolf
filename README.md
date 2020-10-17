@@ -1,5 +1,5 @@
 # willowolf
-a temporary site for www.willowolf.com
+this repo contains the site for www.willowolf.com, generated and hosted by GitHub Pages
 
 this is controlled by me, so keep the access restricted.
 
