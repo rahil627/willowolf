@@ -10,8 +10,8 @@ these are sites for various digital organizations i've began, each one with a sp
 all should share good values: community-building, diy, punk, anarchy, feminist theory, etc.
 
 each organization derives from a will i have/had for a long period of time
-- [mountain willowolf](https://mountain.willowolf.com), the will to research 'n develop ways to make a better world :) :)
-- [forest willowolf](https://forest.willowolf.com), the will to research, develop, 'n love experimental games
-- [desert willowolf](https://desert.willowolf.com), the will to research, develop, 'n love fighting games
+- [will o' wolf of the mountains](https://mountain.willowolf.com), the will to research 'n develop ways to make a better world :) :)
+- [will o' wolf of the forest](https://forest.willowolf.com), the will to research, develop, 'n love experimental games
+- [will o' wolf of the desert](https://desert.willowolf.com), the will to research, develop, 'n love fighting games
 
 once i've organized the communities, then i can begin making stuff, *together*
