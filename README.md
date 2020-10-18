@@ -14,12 +14,12 @@ can keep notes that affect all of the sub-domain sites here
 todo:
 change name in all writings
 
-[kind].willowolf is the name of product 'n logo
-the way of [type] is the title
-a [type] anarchy is the sub-title / desceiption
+[kind].willowolf is the name of product 'n logo  
+the way of [type] is the title  
+a [type] anarchy is the sub-title / desceiption  
 
 example:  
-hongry.willowolf
-the way of fighting games
-a fighting game anarchy
-a digital anarchy centered on fighting games
+hongry.willowolf  
+the way of fighting games  
+a fighting game anarchy  
+a digital anarchy centered on fighting games  
