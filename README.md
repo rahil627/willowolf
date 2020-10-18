@@ -12,7 +12,8 @@ in the future, just change the `A records` back to my web host's servers, 'n bui
 can keep notes that affect all of the sub-domain sites here
 
 todo:
-change name in all writings
+change name in all writings  
+the current image for this repo is kinda creepy...
 
 [kind].willowolf, is the name of product 'n logo  
 the way of [type], is the title  
