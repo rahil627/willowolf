@@ -31,4 +31,5 @@ willowolf vs wolf of the way
 
 desert.willowolf vs fg.willowolf
   - desert creates a distinct type and image of a willowolf, whereas fg directly tells what the project is about
-  - i really don't like that OSs use this kind of naming convention. Mac OS's snow leapord or Ubuntu's gazelle has nothing to do with the product, except associate an image. Does desert willowolf do more? Or is it just a lame mascot?
+  - * i really don't like that OSs use this kind of naming convention. Mac OS's snow leapord or Ubuntu's gazelle has nothing to do with the product, except associate an image. Does desert willowolf do more? Or is it just a lame mascot?
+  - fg.willowolf, the willowolf of fighting games makes sense, similar to fighting games way of the wolf (fg.wayofthewolf)
