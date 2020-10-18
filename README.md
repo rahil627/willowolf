@@ -1,4 +1,6 @@
 #### willowolf
+willowolf contains a few of my wills, expressed digitally
+
 this repo contains the site for www.willowolf.com
 
 it is generated and hosted by GitHub Pages
