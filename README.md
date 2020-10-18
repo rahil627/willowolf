@@ -19,10 +19,16 @@ the current image for this repo is kinda creepy...
 
 [kind].willowolf, is the name of product 'n logo  
 the way of [type], is the title  
-a [type] anarchy, is the sub-title / desceiption  
+a [type] anarchy, is the sub-title / description
 
 example:  
 hongry.willowolf  
 the way of fighting games  
 a fighting game anarchy  
 a digital anarchy centered on fighting games  
+
+willowolf vs wolf of the way
+
+desert.willowolf vs fg.willowolf
+  - desert creates a distinct type and image of a willowolf, whereas fg directly tells what the project is about
+  - i really don't like that OSs use this kind of naming convention. Mac OS's snow leapord or Ubuntu's gazelle has nothing to do with the product, except associate an image. Does desert willowolf do more? Or is it just a lame mascot?
