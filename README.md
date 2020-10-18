@@ -35,6 +35,6 @@ desert.willowolf vs fg.willowolf
   - fg.willowolf, the willowolf of fighting games, makes sense, similar to fighting games way of the wolf (fg.wayofthewolf). thus, desert willowolf does indeed feel like an extraneous mascot
   - can use domain redirects (or even aliases! ...but shouldn't)
 
-fg.willowolf.com, redirects: desert, fight, fighting, fightinggames
-eg.willowolf.com, redirects: forest, experiment, experimental, experimentalgames
-ng.willowolf.com, redirects: mountain, nature, natural, naturesguardians, dao
+fg.willowolf.com, redirects: desert, fight, fighting, fightinggames  
+eg.willowolf.com, redirects: forest, experiment, experimental, experimentalgames  
+ng.willowolf.com, redirects: mountain, nature, natural, naturesguardians, dao  
