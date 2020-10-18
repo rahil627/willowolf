@@ -2,7 +2,7 @@ yo.
 
 this site belongs to [rathewolf](https://rathewolf.com). At the moment, there's nothing here.
 
-it's reserved as a home for projects that have grown beyond my control at rathewolf.com, and ready to be on it's own, with it's own name.
+it's reserved as a home for projects that have grown beyond my control at rathewolf.com, ready to be on it's own, with it's own name, with it's own established identity, with a history.
 <br/>
 <br/>
 <br/>
