@@ -16,7 +16,7 @@ it's reserved as a home for projects that have grown beyond my control at rathew
 <br/>
 <br/>
 - - -
-### archived page
+### old page
 
 this site contains a few wills of [rathewolf](https://rathewolf.com).
 
