@@ -15,6 +15,9 @@ todo:
 change name in all writings  
 the current image for this repo is kinda creepy...
 
+other:  
+https://stackoverflow.com/questions/13051428/how-to-display-images-in-markdown-files-on-github
+
 [kind].willowolf, is the name of product 'n logo  
 the way of [type], is the title  
 a [type] anarchy, is the sub-title / description
