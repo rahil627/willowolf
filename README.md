@@ -20,6 +20,10 @@ the current image for this repo is kinda creepy...
 other:  
 https://stackoverflow.com/questions/13051428/how-to-display-images-in-markdown-files-on-github
 
+#### discord notes
+when getting the link ("invite"), you have to click on settings / edit so that you can set it to permanent. Otherwise, you'll end up linking temporary links! :/ It seems like permanent links are a character longer than temporary ones... [invites docs](https://support.discord.com/hc/en-us/articles/208866998-Invites-101)
+
+#### to naming
 [kind].willowolf, is the name of product 'n logo  
 the way of [type], is the title  
 a [type] anarchy, is the sub-title / description
