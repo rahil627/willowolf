@@ -7,9 +7,11 @@ this repo contains the site for www.willowolf.com
 #### notes
 can keep notes that affect all of the sub-domain sites here
 
-this site should be controlled by me, so remember to keep the access restricted!
+this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off (in the repo's settings), then add features as needed... but i'd prefer a simple single text file for everything.
 
-in the future, just change the `A records` back to my web host's servers, 'n build 'n deploy from my local computer (or web server?).
+this site should be controlled by me, so remember to keep the access restricted! For sites with a public wiki, make it un-restricted.
+
+in the future, when GitHub Pages isn't enough, change the DNS of the domains form using BasicDNS to my web server's DNS (Namecheap) which can be altered through cPanel. Change the `A records` back to my web host's servers, 'n build 'n deploy from my local computer (or set-up some similar way to auto-build upon git changes from my web server?).
 
 todo:
 change name in all writings  
