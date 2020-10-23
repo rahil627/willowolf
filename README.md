@@ -27,11 +27,12 @@ https://www.namecheap.com/support/knowledgebase/article.aspx/9387/2218/what-is-n
 https://www.namecheap.com/support/knowledgebase/article.aspx/794/67/how-do-i-activate-an-ssl-certificate  
 https://www.namecheap.com/support/knowledgebase/article.aspx/9637/68/how-can-i-complete-the-domain-control-validation-dcv-for-my-SSL-certificate  
 https://www.namecheap.com/support/knowledgebase/article.aspx/9991/38/caa-record-and-why-it-is-needed-ssl-related
-  - some strange un-listed step...
   - add a CAA record with comodoca.com
+  - this step was un-listed by the docs, probably was supposed to be e-mailed to me by the ssl provider
   
 https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain
-  - use sub-domain (@ for no sub-domain, www, maps...) for the host value
+
+the `host` value for DNS records are usually the sub-domain ('www') or these exceptions: '@' for no sub-domain (rathewolf.com); '*' for wild-cards (as in re-direct records)
 
 
 #### discord notes
