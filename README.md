@@ -1,5 +1,5 @@
 #### willowolf
-[willowolf](https://www.willowolf.com) (will-o'-wolf) is a digital space for my altruistic desires: my wills, manifested digitally. It’s also spirit animal representing a will. :)
+willowolf (will-o'-wolf) is a digital space for my altruistic desires: my wills, manifested digitally. It’s also spirit animal representing a will. :)
 
 this repo contains the site for www.willowolf.com
 - - -
