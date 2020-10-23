@@ -1,3 +1,7 @@
+---
+permalink: /ega/
+---
+
 W E LL C 0m E :) :)  
 to  
 # rathewolf's experimental game anarchy
