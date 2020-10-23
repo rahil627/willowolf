@@ -10,9 +10,9 @@ these are sites for various digital organizations i've began, each one with a sp
 all should share good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, etc.
 
 each organization derives from a will i have/had for a long period of time
-- [nature's guardian anarchy](https://willowolf.com/nga), the will to research 'n develop ways to make a better world :) :)
-- [experimental game anarchy](https://willowolf.com/ega), the will to research, develop, 'n love experimental games
-- [fighting game anarchy](https://willowolf.com/fga), the will to research, develop, 'n love fighting games
+- [the way of nature's guardians](https://willowolf.com/nga), the will to research 'n develop ways to make a better world :) :)
+- [the way of experimental games](https://willowolf.com/ega), the will to research, develop, 'n love experimental games
+- [the way of fighting games](https://willowolf.com/fga), the will to research, develop, 'n love fighting games
 
 once i've organized the communities, then i can begin making stuff, *together*
 
