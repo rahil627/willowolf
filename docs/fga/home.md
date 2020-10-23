@@ -1,3 +1,6 @@
+---
+permalink: /fga/
+---
 ### rathewolf's fighting game anarchy / aka the way of fighting games
 is a digital anarchist diy community interested in the research and development of fighting games
 
