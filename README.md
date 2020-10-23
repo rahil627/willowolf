@@ -37,8 +37,15 @@ the current image for this repo is kinda creepy...
 
 other:  
 https://stackoverflow.com/questions/13051428/how-to-display-images-in-markdown-files-on-github
-https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages
+
+#### notes
+
+GitHub Pages:  
+https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll#creating-your-site
+https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f
+https://github.blog/2017-11-29-use-any-theme-with-github-pages/
 https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/troubleshooting-jekyll-build-errors-for-github-pages-sites#troubleshooting-build-errors
+https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages
 
 domains:  
 https://www.namecheap.com/support/knowledgebase/article.aspx/9387/2218/what-is-namecheap-ssl-and-how-do-i-use-it/  
