@@ -1,7 +1,7 @@
 # willowolf (will-o'-wolf)
 a digital space for my altruistic desires: my wills, manifested digitally. It’s also spirit animal representing a will. :)
 
-this repo contains the site for www.willowolf.com ...which itself contains the sites for several wills/projects
+this repo contains the site for www.willowolf.com ...which itself contains tiny or temporary sites for several wills/projects
 
 # temp web-site
 yo.
