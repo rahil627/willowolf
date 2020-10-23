@@ -25,6 +25,8 @@ https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages
 domains:  
 https://www.namecheap.com/support/knowledgebase/article.aspx/9387/2218/what-is-namecheap-ssl-and-how-do-i-use-it/  
 https://www.namecheap.com/support/knowledgebase/article.aspx/794/67/how-do-i-activate-an-ssl-certificate  
+https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain
+  - use sub-domain (@ for no sub-domain, www, maps...) for the host value
 
 
 #### discord notes
