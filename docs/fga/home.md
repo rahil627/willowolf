@@ -6,9 +6,9 @@ title: hearth
 #### debugging
 did the layout thing include the toc above this line?
 
-{% comment %}
-{% include toc.html %}
-{% endcomment %} 
+{% comment %}  
+{% include toc.html %}  
+{% endcomment %}  
   
 i manually included the toc below above this line
 
@@ -23,7 +23,7 @@ if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rah
 if that's not enough, you can halp me make [this site](https://rahil627.github.io/fighting-game-anarchy/)(!!), to which the wiki may be ported to soon. The site's source is in the docs folder; it's hosted and automatically built by GitHub Pages, and generated using Jekyll. Just ask for permission (git access permissions). Sooo much to do!! :) :) Halp find or make an awesome theme. Halp transform those lists into readable tables (csv vs flat-file database). Add your own cool art 'n animation! Do what you want.
 
 ### notes
-todo:\
+todo:  
 ...how long does it take for GitHub to update the site? (to auto build the site and publish it)  
 answer: as long as it took me to write that question.
 
