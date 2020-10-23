@@ -25,6 +25,9 @@ https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages
 domains:  
 https://www.namecheap.com/support/knowledgebase/article.aspx/9387/2218/what-is-namecheap-ssl-and-how-do-i-use-it/  
 https://www.namecheap.com/support/knowledgebase/article.aspx/794/67/how-do-i-activate-an-ssl-certificate  
+https://www.namecheap.com/support/knowledgebase/article.aspx/9991/38/caa-record-and-why-it-is-needed-ssl-related
+  - some strange un-listed step...
+  - add a CAA record with comodoca.com
 https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain
   - use sub-domain (@ for no sub-domain, www, maps...) for the host value
 
