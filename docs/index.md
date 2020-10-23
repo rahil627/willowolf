@@ -1,6 +1,8 @@
 yo.
 
-this site contains a few wills of [rathewolf](https://rathewolf.com).
+welcome to willowolf (will-o'-wolf).
+
+this site is a digital space for my (rathewolf)(https://rathewolf.com) altruistic desires: my wills, manifested digitally. It’s also spirit animal representing a will. :)
 
 it's holds the sites of digital organizations 'n tools 'n other digital stuff i've organized/made for *the people*.
 
@@ -14,7 +16,6 @@ each organization derives from a will i have/had for a long period of time
 - [the way of experimental games](https://willowolf.com/ega), the will to research, develop, 'n love experimental games
 - [the way of fighting games](https://willowolf.com/fga), the will to research, develop, 'n love fighting games
 
-once i've organized the communities, then i can begin making stuff, *together*
 
 #### tools
 ...
