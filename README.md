@@ -62,3 +62,6 @@ the `host` value for DNS records are usually the sub-domain ('www') or these exc
 
 #### discord notes
 when getting the link ("invite"), you have to click on settings / edit so that you can set it to permanent. Otherwise, you'll end up linking temporary links! :/ It seems like permanent links are a character longer than temporary ones... [invites docs](https://support.discord.com/hc/en-us/articles/208866998-Invites-101)
+
+
+testing git ios app
