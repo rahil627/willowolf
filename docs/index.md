@@ -1,4 +1,4 @@
-yo.
+*yo*.
 
 # welcome to willowolf (will-o'-wolf).
 
