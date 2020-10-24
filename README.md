@@ -38,8 +38,6 @@ the current image for this repo is kinda creepy...
 other:  
 https://stackoverflow.com/questions/13051428/how-to-display-images-in-markdown-files-on-github
 
-#### notes
-
 GitHub Pages:  
 https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll#creating-your-site
 https://hackernoon.com/use-custom-domain-with-github-pages-2-straightforward-steps-cf561eee244f
