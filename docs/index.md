@@ -4,7 +4,7 @@
 
 this site is a digital space for my [(rathewolf)](https://rathewolf.com) altruistic desires: my wills, manifested digitally. It’s also a spirit animal representing a will. :)
 
-it's holds the sites of digital organizations 'n tools 'n other digital stuff i've organized/made for *the people*.
+it's holds the web-sites of digital organizations 'n tools 'n other digital stuff i've organized/made for *the people*.
 
 #### digital organizations
 these are sites for various digital organizations i've began, each one with a specific shared interest / direction.
