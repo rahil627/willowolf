@@ -22,7 +22,7 @@ each organization derives from a will i have/had for a long period of time
 - [an anarchy focused on experimental games](https://willowolf.com/ega), the will to research, develop, 'n love experimental games
 - [an anarchy focused on fighting games](https://willowolf.com/fga), the will to research, develop, 'n love fighting games
 
-#### notes
+# notes
 can keep notes that affect all of the sub-domain sites here
 
 this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off (in the repo's settings), then add features as needed... but i'd prefer a simple single text file for everything.
