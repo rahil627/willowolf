@@ -7,8 +7,8 @@ provides a digital common space for people that either live in nature, are striv
 
 *come home*, to the [discord](https://discord.gg/2vv643p)
  
-*see* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki). contribute to it
+help *build* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki)
 
-*help build* this web-site at [the willowolf github repo](https://github.com/Rahil627/willowolf)
+help *make* this web-site at [the willowolf repo](https://github.com/Rahil627/willowolf)
 
 ...At the moment, there's nothing else on this web-site!
