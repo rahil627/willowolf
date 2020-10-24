@@ -12,4 +12,4 @@ I'll add some tools for the people to use!
  
 *see* the public [wiki](https://github.com/Rahil627/nature-guardian-anarchy/wiki). contribute to it
 
-*help build* [the web-site](https://willowolf.com/nga) at [the willowolf GitHub repo](https://github.com/Rahil627/willowolf)
+*help build* this web-site at [the willowolf github repo](https://github.com/Rahil627/willowolf)
