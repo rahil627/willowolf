@@ -1,5 +1,3 @@
-testing git app
-
 # willowolf (will-o'-wolf)
 a digital space for my altruistic desires: my wills, manifested digitally. It’s also spirit animal representing a will. :)
 
