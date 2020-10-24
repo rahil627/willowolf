@@ -2,10 +2,12 @@
 permalink: /ega/
 ---
 
+![](image.jpg?raw=true)
+
 W E LL C 0m E :) :)  
 to  
-# rathewolf's experimental game anarchy
-a rad anarchist diy digital space for people with a passion for e x p e r i m e n t a l games. Especially useful for people that aren't fortunate enough to have such a physical community nearby (like me! :) ).
+# experimental game anarchy: a willowolf
+a rad anarchist diy digital space for people with a passion for e x p e r i m e n t a l games.
 
 probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclusive, leader-less (anarchy), punk (DIY), uses ascii art, enjoys s t r a n g e things, vapor-ware, vapor-wave, mods, Earthbound, Mr. Saturn, Super Mario RPG, child-like, caring, loving.
 
