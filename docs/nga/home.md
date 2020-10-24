@@ -11,4 +11,4 @@ help *build* the public [wiki](https://github.com/Rahil627/nature-guardian-anarc
 
 help *make* this web-site at [the willowolf repo](https://github.com/Rahil627/willowolf)
 
-...At the moment, there's nothing else on this web-site!
+...At the moment, there's nothing else here
