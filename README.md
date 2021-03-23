@@ -49,9 +49,11 @@ domains:
 https://www.namecheap.com/support/knowledgebase/article.aspx/9387/2218/what-is-namecheap-ssl-and-how-do-i-use-it/  
 https://www.namecheap.com/support/knowledgebase/article.aspx/794/67/how-do-i-activate-an-ssl-certificate  
 https://www.namecheap.com/support/knowledgebase/article.aspx/9637/68/how-can-i-complete-the-domain-control-validation-dcv-for-my-SSL-certificate  
-https://www.namecheap.com/support/knowledgebase/article.aspx/9991/38/caa-record-and-why-it-is-needed-ssl-related
-  - add a CAA record with comodoca.com
+https://www.namecheap.com/support/knowledgebase/article.aspx/9991/38/caa-record-and-why-it-is-needed-ssl-related  
+  - add a CAA record with the value as the validator site (comodoco.com, sectigo.com, etc.)
   - this step was un-listed by the docs, probably was supposed to be e-mailed to me by the ssl provider
+https://docs.github.com/en/github/working-with-github-pages/troubleshooting-custom-domains-and-github-pages  
+  - check this site for the most recent validator being used (currently letsencrypt.org)
   
 https://www.namecheap.com/support/knowledgebase/article.aspx/9646/2237/how-to-create-a-cname-record-for-your-domain
 
