@@ -1,3 +1,3 @@
 # theme: jekyll-theme-tactile # minima is the default theme
 minima:
-  skin: dark
+  skin: solarized
