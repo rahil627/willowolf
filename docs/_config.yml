@@ -10,7 +10,5 @@
 # title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default
 remote_theme: nielsenramon/chalk #poole/lanyon, chesterhow/tale
 
-# plugins: jekyll-remote-theme
-
 #minima:
  # skin: dark #solarized
