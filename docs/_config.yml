@@ -1,6 +1,8 @@
 # theme: jekyll-theme-tactile # minima is the default theme
 
 # am i limited to just the themes by GitHub Pages?
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#further-reading
+#   - set remote_theme
 
 
 # Build settings
