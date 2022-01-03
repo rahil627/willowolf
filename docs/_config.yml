@@ -1,3 +1,11 @@
 # theme: jekyll-theme-tactile # minima is the default theme
+
+# am i limited to just the themes by GitHub Pages?
+
+
+# Build settings
+remote_theme: jekyll/minima
+plugins: jekyll-remote-theme
+
 minima:
-  skin: solarized
+  skin: dark #solarized
