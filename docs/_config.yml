@@ -8,7 +8,7 @@
 # try these themes: 'poole/lanyon', and the 'dark' and solarized' skins of minima
 
 # title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default
-remote_theme: jekyll/minima #nielsenramon/chalk #poole/lanyon, chesterhow/tale, huangyz0918/moving, daviddarnes/alembic
+remote_theme: b2a3e8/jekyll-theme-console #jekyll/minima #nielsenramon/chalk #poole/lanyon, chesterhow/tale, huangyz0918/moving, daviddarnes/alembic
 
 minima:
   skin: dark #solarized
