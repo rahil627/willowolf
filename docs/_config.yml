@@ -5,9 +5,9 @@
 #   - set remote_theme
 # try these themes: Lanyon, Poole, and the 'dark' and solarized' skins of minima
 
-# Build settings
-remote_theme: jekyll/minima
+# title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default
+remote_theme: jekyll/lanyon
 plugins: jekyll-remote-theme
 
-minima:
-  skin: dark #solarized
+#minima:
+ # skin: dark #solarized
