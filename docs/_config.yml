@@ -4,6 +4,7 @@
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#further-reading
 #   - set remote_theme
 # can use any theme found on gitHub, the value is [user-name]/[theme name]
+# see https://github.com/topics/jekyll-theme
 # try these themes: 'poole/lanyon', and the 'dark' and solarized' skins of minima
 
 # title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default
