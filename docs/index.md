@@ -1,6 +1,6 @@
-*yo*.
+*yo*
 
-# welcome to willowolf (will-o'-wolf)
+# welcome to willowolf
 
 this site is a digital space for my [(rathewolf)](https://rathewolf.com) altruistic desires: my wills, manifested digitally. It’s also a spirit animal representing a will. :)
 
