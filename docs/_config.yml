@@ -1,13 +1,11 @@
 # theme: jekyll-theme-tactile # minima is the default theme
 
-# am i limited to just the themes by GitHub Pages?
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#further-reading
 #   - set remote_theme
 # can use any theme found on gitHub, the value is [user-name]/[theme name]
 # see https://github.com/topics/jekyll-theme
-# try these themes: 'poole/lanyon', and the 'dark' and solarized' skins of minima
 
-# title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default
+# title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default; keep 'willowolf' for consistency
 remote_theme: piharpi/jekyll-klise #b2a3e8/jekyll-theme-console #jekyll/minima #nielsenramon/chalk #poole/lanyon, chesterhow/tale, huangyz0918/moving, daviddarnes/alembic
 
 #minima:
