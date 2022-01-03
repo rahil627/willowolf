@@ -3,7 +3,7 @@
 # am i limited to just the themes by GitHub Pages?
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#further-reading
 #   - set remote_theme
-# try these themes: Lanyon, Poole, and the 'dark' and solarized' skins of minima
+# try these themes: Lanyon, and the 'dark' and solarized' skins of minima
 
 # title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default
 remote_theme: jekyll/lanyon
