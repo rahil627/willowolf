@@ -16,9 +16,9 @@ these are sites for various digital organizations i've began, each one with a sp
 all should share good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, etc.
 
 each organization derives from a will i have/had for a long period of time
-- [an anarchy focused on a natural way of life](https://willowolf.com/nga), the will to research, develop, n share our love for ways of making better world :) :)
-- [an anarchy focused on experimental games](https://willowolf.com/ega), the will to research, develop, 'n share our love for experimental games
-- [an anarchy focused on fighting games](https://willowolf.com/fga), the will to research, develop, 'n share our love for fighting games
+- [an anarchy that loves *the natural way* of life](https://willowolf.com/nga), the will to research, develop, n share our love for ways of making better world :) :)
+- [an anarchy that loves experimental games](https://willowolf.com/ega), the will to research, develop, 'n share our love for experimental games
+- [an anarchy that loves fighting games](https://willowolf.com/fga), the will to research, develop, 'n share our love for fighting games
 
 # notes
 can keep notes that affect all of the sub-domain sites here
