@@ -4,7 +4,7 @@
 
 # welcome to willowolf
 
-this site is a digital space for my [(rathewolf)](https://rathewolf.com) altruistic desires: my wills, manifested digitally. It’s also a spirit animal representing a will. :)
+this site is a digital space for [(rathewolf)](https://rathewolf.com)'s altruistic desires: my wills, manifested digitally. It’s also a spirit animal representing a will of mine. :)
 
 it's holds the web-sites of digital organizations 'n tools 'n other digital stuff i've organized/made for *the people*.
 
