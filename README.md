@@ -1,7 +1,7 @@
 # willowolf (will-o'-wolf)
 a digital space for my altruistic desires: my wills, manifested digitally. It’s also spirit animal representing a will. :)
 
-this repo contains the site for www.willowolf.com, which itself contains tiny or temporary homes for my wills/projects; If or when the project needs it's own sub-domain, it'll naturally find it's own home. [todo: should use git submodule to fetch a copy of the web-site folder from other git repos]
+this repo contains the site for www.willowolf.com, which itself contains tiny or temporary homes for my wills/projects; If or when the project needs it's own sub-domain, it'll naturally find it's own home in one.
 
 # temp home-page of web-site：
 # welcome to willowolf
@@ -27,7 +27,14 @@ this part of the readme serves as a simple version of GitHub's projects 'n issue
 
 for sites should be controlled by me (like this one), remember to keep the wiki access restricted! For sites with a public wiki, make it un-restricted. `Settings, under the Features section, un-check 'Restrict editing to collaborators only'`
 
-in the future, when GitHub Pages isn't enough, change the DNS of the domains form using BasicDNS to my web server's DNS (Namecheap) which can be altered through cPanel. Change the `A records` back to my web host's servers, 'n build 'n deploy from my local computer (or set-up some similar way to auto-build upon git changes from my web server?).
+in the future, if and when GitHub Pages isn't enough, update the DNS of my domains: change (or remove?) the `A records` back to my web host's servers, 'n build 'n deploy from my server (or set-up some similar way to auto-build upon git changes from my web server?).
+
+design choice:
+sites begin here, as a folder, then, as they grow, they can move their own sub-domain
+...but in my case, because i want to use GitHub's project features such as wiki, project plans, readme, etc., it might be better to...
+just give it it's own sub-domain from the beginning, because sites built with GitHub Pages requires it's own sub-domain (i think...)
+or: use git submodule to fetch a copy of the web-site folder from other git repos, and add it as a folder here
+  - wellll, since it's so easy to add a sub-domain nowadays, might as well just do that, so that each project is completely seperate. Git submodule feels a bit toooo sloppy.
 
 todo:
 the old project names (ega, fga, nga) are used for the folder names
