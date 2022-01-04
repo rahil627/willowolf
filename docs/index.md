@@ -1,3 +1,5 @@
+![](graveyard-of-fireflies.jpg?raw=true)
+
 *yo*
 
 # welcome to willowolf
