@@ -29,13 +29,19 @@ for sites should be controlled by me (like this one), remember to keep the wiki 
 
 in the future, if and when GitHub Pages isn't enough, update the DNS of my domains: change (or remove?) the `A records` back to my web host's servers, 'n build 'n deploy from my server (or set-up some similar way to auto-build upon git changes from my web server?).
 
-design choice:
+a design choice:
+folder vs sub-domain
 sites begin here, as a folder, then, as they grow, they can move their own sub-domain
 ...but in my case, because i want to use GitHub's project features such as wiki, project plans, readme, etc., it might be better to...
 just give it it's own sub-domain from the beginning, because sites built with GitHub Pages requires it's own sub-domain (i think...)
 or: use git submodule to fetch a copy of the web-site folder from other git repos, and add it as a folder here
   - wellll, since it's so easy to add a sub-domain nowadays, might as well just do that, so that each project is completely seperate. Git submodule feels a bit toooo sloppy.
   - https://stackoverflow.com/questions/36554810/how-to-link-folder-from-a-git-repo-to-another-repo#36554930
+
+to add a sub-domain, just add the 'A' records to the domain's DNS handler, then, update the domain name at GitHub project -> settings -> pages
+to use a folder, add a git submodule to this repo for each project's site folder
+
+a pro/con is that the sub-domain will hold a completely different site, and you must config Jekyll or whatever it uses.
 
 todo:
 the old project names (ega, fga, nga) are used for the folder names
