@@ -30,8 +30,10 @@ for sites should be controlled by me (like this one), remember to keep the wiki 
 in the future, when GitHub Pages isn't enough, change the DNS of the domains form using BasicDNS to my web server's DNS (Namecheap) which can be altered through cPanel. Change the `A records` back to my web host's servers, 'n build 'n deploy from my local computer (or set-up some similar way to auto-build upon git changes from my web server?).
 
 todo:
+the old project names (ega, fga, nga) are used for the folder names
+  - this doesnt change anything for the web-site though
+  - can't rename files in the web ui, need to use a local git repo and terminal?
 change name in all writings  
-the current image for this repo is kinda creepy...
 
 other:  
 https://stackoverflow.com/questions/13051428/how-to-display-images-in-markdown-files-on-github
