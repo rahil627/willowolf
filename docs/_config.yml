@@ -6,7 +6,7 @@
 #   - see https://github.com/topics/jekyll-theme
 
 # title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default; keep 'willowolf' for consistency
-remote_theme: piharpi/jekyll-klise #b2a3e8/jekyll-theme-console # see jekyll.txt in your notes for more themes
+remote_theme: piharpi/jekyll-klise # see jekyll.txt in your notes for more themes
 # changing the theme seems to take a long time for GitHub
 
 #minima:
