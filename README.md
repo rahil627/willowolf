@@ -35,7 +35,8 @@ this part of the readme serves as a simple version of GitHub's projects 'n issue
 for sites should be controlled by me (like this one), remember to keep the wiki access restricted! For sites with a public wiki, make it un-restricted. `Settings, under the Features section, un-check 'Restrict editing to collaborators only'`
 
 in the future, if and when GitHub Pages isn't enough, update the DNS of my domains: change (or remove?) the `A records` back to my web host's servers, 'n build 'n deploy from my server (or set-up some similar way to auto-build upon git changes from my web server?).
--
+
+
 
 folder vs sub-domain: a design choice:
 i initially thought: sites begin here, as a folder, then, as they grow, they can move their own sub-domain
@@ -49,7 +50,9 @@ to add a sub-domain, just add the 'A' records to the domain's DNS handler, then,
 to use a folder, add a git submodule to this repo for each project's site folder
 
 a pro/con is that the sub-domain will hold a completely different site, and you must re-config Jekyll or whatever it uses, for *every* project.
--
+
+
+
 
 todo:
 the old project names (ega, fga, nga) are used for the folder names
