@@ -11,9 +11,9 @@ it's holds the web-sites of digital organizations 'n tools 'n other digital stuf
 
 #### digital organizations
 
-- [an anarchy that follows *the natural way* of life](https://willowolf.com/nga), the will to research, develop, 'n share our love for ways of making better world :) :)
-- [an anarchy that <3 experimental games](https://willowolf.com/ega), the will to research, develop, *play*, 'n share our love for experimental games
-- [an anarchy that <3 fighting games](https://willowolf.com/fga), the will to research, develop, play, 'n share our love for fighting games
+- [an anarchist community that follows *the natural way* of life](https://willowolf.com/nga), the will to organize, research, develop, 'n share our love for ways of making better world :) :)
+- [an anarchist community that <3 experimental games](https://willowolf.com/ega), the will to organize, research, develop, *play*, 'n share our love for experimental games
+- [an anarchist community that <3 fighting games](https://willowolf.com/fga), the will to organize, research, develop, play, 'n share our love for fighting games
 
 these are the web-sites for various digital organizations i've begun, each one with a specific shared interest / direction
 
