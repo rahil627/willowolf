@@ -35,6 +35,7 @@ sites begin here, as a folder, then, as they grow, they can move their own sub-d
 just give it it's own sub-domain from the beginning, because sites built with GitHub Pages requires it's own sub-domain (i think...)
 or: use git submodule to fetch a copy of the web-site folder from other git repos, and add it as a folder here
   - wellll, since it's so easy to add a sub-domain nowadays, might as well just do that, so that each project is completely seperate. Git submodule feels a bit toooo sloppy.
+  - https://stackoverflow.com/questions/36554810/how-to-link-folder-from-a-git-repo-to-another-repo#36554930
 
 todo:
 the old project names (ega, fga, nga) are used for the folder names
