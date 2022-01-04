@@ -2,8 +2,8 @@
 
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#further-reading
 #   - set remote_theme
-# can use any theme found on gitHub, the value is [user-name]/[theme name]
-# see https://github.com/topics/jekyll-theme
+#   - can use any theme found on gitHub, the value is [user-name]/[theme name]
+#   - see https://github.com/topics/jekyll-theme
 
 # title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default; keep 'willowolf' for consistency
 remote_theme: piharpi/jekyll-klise #b2a3e8/jekyll-theme-console # see jekyll.txt in your notes for more themes
