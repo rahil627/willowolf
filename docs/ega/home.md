@@ -1,5 +1,5 @@
 ---
-permalink: /ega/
+permalink: /experimental/
 ---
 
 ![](earthbound-mr-saturns.jpg?raw=true)
