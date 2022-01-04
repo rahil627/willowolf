@@ -20,6 +20,6 @@ generally, all *should* share 'n uphold good values: informal, *street*, *commun
 each of these organizations derive from a specific will/desire/path/direction i have and had for a long long period of time:  
 age, intense, interest:  
 0-24, 21-23, experimental games  
-0-22, 18-21, fighting games  
+0-22, 18-20, fighting games  
 0-25, 22-24, anti-civilization  
 24-p, 27-30, natural way of life  
