@@ -6,7 +6,7 @@ permalink: /ega/
 
 W E LL C 0m E :) :)  
 to  
-# experimental game anarchy: a willowolf
+# the way of experimental games: an experimental game anarchy: a willowolf
 a rad anarchist diy digital space for people with a passion for e x p e r i m e n t a l games.
 
 probable traits: *silly*, *playful*, *ridiculous yet serious*, cute, rad, inclusive, leader-less (anarchy), punk (DIY), uses ascii art, enjoys s t r a n g e things, vapor-ware, vapor-wave, mods, Earthbound, Mr. Saturn, Super Mario RPG, child-like, caring, loving.
