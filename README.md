@@ -1,7 +1,7 @@
 # willowolf (will-o'-wolf)
 a digital space for my altruistic desires: my wills, manifested digitally. It’s also spirit animal representing a will. :)
 
-this repo contains the site for www.willowolf.com, which itself contains tiny or temporary homes for my wills/projects; If or when the project needs it's own sub-domain, it'll naturally find it's own home.
+this repo contains the site for www.willowolf.com, which itself contains tiny or temporary homes for my wills/projects; If or when the project needs it's own sub-domain, it'll naturally find it's own home. [todo: should use git submodule to fetch a copy of the web-site folder from other git repos]
 
 # temp home-page of web-site：
 # welcome to willowolf
