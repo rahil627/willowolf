@@ -1,5 +1,5 @@
 ---
-permalink: /fight/
+permalink: /fighting/
 ---
 # the way of fighting games: an anarchy that shares interests in fighting games: a willowolf
 is a digital anarchist diy community interested in the research and development of fighting games
