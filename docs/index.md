@@ -1,18 +1,17 @@
 
 ![](graveyard-of-fireflies.jpg?raw=true)
-
-*yo*
+*yo.*
 
 # welcome to willowolf
 
-this site is a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: my wills, manifested digitally. It’s also a spirit animal representing a single will. :)
+this site is a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. It’s also a spirit animal representing a will. :)
 
-it holds the web-sites of digital organizations, digital tools, 'n other digital stuff i've organized/made for *the people*.
+it holds the web-sites of digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
 
 #### willowolves
-[nature's guardians: the natural way of life](https://natural.willowolf.com/), the will to organize, r&d, 'n share our love for making ways of make a better world :) :)  
-[fighting game anarchy: the art & way of fighting games](https://fighting.willowolf.com), the will to organize, r&d, play, 'n share our love for fighting games
+[nature's guardians: *the natural way* of life](https://natural.willowolf.com/), the will to organize, r&d, 'n share our love for making ways of make a better world :) :)  
 [experimental game anarchy: the art & way of experimental games](https://experimental.willowolf.com), the will to organize, r&d, *play(!!!)*, 'n share our love for experimental games  
+[fighting game anarchy: the art & way of fighting games](https://fighting.willowolf.com), the will to organize, r&d, play, 'n share our love for fighting games
 
 
 
