@@ -9,13 +9,14 @@ this site is a digital space for [rathewolf](https://rathewolf.com)'s altruistic
 
 it holds the web-sites of digital organizations, digital tools, 'n other digital stuff i've organized/made for *the people*.
 
-#### digital organizations
-- [a community that follows *the natural way* of life](https://willowolf.com/nga), the will to organize, r&d, 'n share our love for making ways of make a better world :) :)
-- [a community that <3 experimental games](https://willowolf.com/ega), the will to organize, r&d, *play(!!!)*, 'n share our love for experimental games
-- [a community that <3 fighting games](https://willowolf.com/fga), the will to organize, r&d, play, 'n share our love for fighting games
+#### willowolves
+[nature's guardians: the natural way of life](https://natural.willowolf.com/), the will to organize, r&d, 'n share our love for making ways of make a better world :) :)  
+[fighting game anarchy: the art & way of fighting games](https://fighting.willowolf.com), the will to organize, r&d, play, 'n share our love for fighting games
+[experimental game anarchy: the art & way of experimental games](https://experimental.willowolf.com), the will to organize, r&d, *play(!!!)*, 'n share our love for experimental games  
 
 
-generally, all *should* share 'n uphold good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, etc.
+
+generally, all *should* share 'n uphold good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, grassroots-like etc.
 
 each of these organizations derive from a specific will/desire/path/direction i have and had for a long long period of time:  
 age, intense, interest:  
