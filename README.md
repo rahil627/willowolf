@@ -28,6 +28,8 @@ each of these organizations derive from a will i have and had for a long long pe
 
 
 # notes
+style: should be a similar style to rathewolf: hand-drawn (digital or not). more ethereal, as these are my wills: dreamy, faded colors 'n outlines, like a faded drawing.
+
 can keep notes that affect all of the sub-domain sites here
 
 this part of the readme serves as a simple version of GitHub's projects 'n issues. Start with those features off (in the repo's settings), then add features as needed... but i'd prefer a simple single text file for everything.
