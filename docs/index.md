@@ -1,5 +1,5 @@
 ---
-title: test
+#title: test # this will auto add it to the nav bar
 layout: default
 home: true
 ---
