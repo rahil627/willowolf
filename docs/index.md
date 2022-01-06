@@ -1,5 +1,7 @@
 ---
-layout: page
+title: test
+layout: default
+home: true
 ---
 
 ![](graveyard-of-fireflies.jpg?raw=true)
