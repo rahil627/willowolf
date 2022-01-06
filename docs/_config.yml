@@ -4,7 +4,7 @@ description: the wills of rathewolf #the altruistic desires of rathewolf: his wi
 
 #theme: jekyll-theme-tactile # minima is the default theme
 #remote_theme: rahil627/jekyll-klise # piharpi/jekyll-klise # has an error # see jekyll.txt in your notes for more themes
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
 
 minima:
   skin: dark
