@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 ![](graveyard-of-fireflies.jpg?raw=true)
 *yo.*
