@@ -8,5 +8,5 @@ remote_theme: rahil627/jekyll-klise # piharpi/jekyll-klise # has an error # see 
 
 # github-pages 223 | Error:  Liquid syntax error (/tmp/jekyll-remote-theme-20220106-8-1nf7h4/_includes/header.html line 134): Unknown tag 'feed_meta' included 
 
-minima:
-  skin: dark
+#minima:
+#  skin: dark
