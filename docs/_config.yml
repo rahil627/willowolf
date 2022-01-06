@@ -4,7 +4,7 @@ description: the wills of rathewolf #the altruistic desires of rathewolf: his wi
 # theme: jekyll-theme-tactile # minima is the default theme
 
 # title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default; keep 'willowolf' for consistency and SEO purposes
-remote_theme: jekyll/minima # piharpi/jekyll-klise # has an error # see jekyll.txt in your notes for more themes
+remote_theme: rahil627/jekyll-klise # piharpi/jekyll-klise # has an error # see jekyll.txt in your notes for more themes
 
 # github-pages 223 | Error:  Liquid syntax error (/tmp/jekyll-remote-theme-20220106-8-1nf7h4/_includes/header.html line 134): Unknown tag 'feed_meta' included 
 
