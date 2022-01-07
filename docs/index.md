@@ -6,8 +6,6 @@
 welcome to
 # {{ site.title-short }}
 
----
-
 a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. It’s also a spirit animal representing a will. :) It holds the web-sites of digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
 
 ### willowolves:
