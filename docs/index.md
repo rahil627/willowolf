@@ -1,17 +1,16 @@
 ---
-#title: test # this will auto add it to the nav bar
+#title: #a home in the forest # this will auto add it to the nav bar
 layout: default
 home: true
 ---
 
-![](graveyard-of-fireflies.jpg?raw=true)
-*yo.*
-
-# welcome to willowolf
-
+welcome to
+# will o' wolf
 this site is a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. It’s also a spirit animal representing a will. :)
 
 it holds the web-sites of digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
+
+![](graveyard-of-fireflies.jpg?raw=true)
 
 #### willowolves:
 [nature's guardians: *the natural way* of life](https://natural.willowolf.com/), the will to organize, r&d, 'n share our love for making ways of make a better world :) :)  
