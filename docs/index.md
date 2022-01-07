@@ -1,5 +1,5 @@
 ---
-#title: forest # this will auto add it to the nav bar
+#title: forest # this will auto add it to the nav bar and h1
 #layout: default
 ---
 welcome to
