@@ -1,5 +1,5 @@
 ---
-#title: #a home in the forest # this will auto add it to the nav bar
+title: the spiritualized wills of rathewolf #a home in the forest # this will auto add it to the nav bar
 layout: default
 #home: true
 ---
