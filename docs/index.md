@@ -1,5 +1,5 @@
 ---
-title: the forest # this will auto add it to the nav bar
+title: forest # this will auto add it to the nav bar
 #layout: default
 #home: true
 ---
