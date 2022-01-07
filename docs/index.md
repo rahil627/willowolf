@@ -2,6 +2,7 @@
 #title: forest # this will auto add it to the nav bar and h1
 #layout: default
 ---
+<div style='text-align: center'>
 welcome to
 # {{ site.title-short }}
 
@@ -19,6 +20,7 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
 ![](graveyard-of-fireflies.jpg?raw=true)
 
 ---
+</div>
 
 ### notes:
 generally, all *should* share 'n uphold good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, grassroots-like etc.
