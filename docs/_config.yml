@@ -7,5 +7,7 @@ title: 'willowolf: the spiritualized wills of rathewolf' # automatically fetched
 #remote_theme: rahil627/minima-custom
 remote_theme: jekyll/minima
 
+title-short: 'willowolf'
+
 minima:
   skin: dark
