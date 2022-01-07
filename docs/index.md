@@ -6,7 +6,7 @@ layout: default
 
 welcome to
 # will o' wolf
-this site is a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. It’s also a spirit animal representing a will. :) It holds the web-sites of digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
+a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. It’s also a spirit animal representing a will. :) It holds the web-sites of digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
 
 ![](graveyard-of-fireflies.jpg?raw=true)
 
