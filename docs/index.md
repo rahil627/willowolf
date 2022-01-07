@@ -18,7 +18,6 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
 ![](graveyard-of-fireflies.jpg?raw=true)
 
 ---
-</div>
 
 ### notes:
 generally, all *should* share 'n uphold good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, grassroots-like etc.
