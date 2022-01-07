@@ -4,7 +4,9 @@
 ---
 welcome to
 # {{ site.title-short }}
+
 ---
+
 a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. It’s also a spirit animal representing a will. :) It holds the web-sites of digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
 
 ![](graveyard-of-fireflies.jpg?raw=true)
@@ -13,6 +15,7 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
 [nature's guardians: *the natural way* of life](https://natural.willowolf.com/), the will to organize, r&d, 'n share our love for making ways of make a better world :) :)  
 [experimental game anarchy: the art & way of experimental games](https://experimental.willowolf.com), the will to organize, r&d, *play(!!!)*, 'n share our love for experimental games  
 [fighting game anarchy: the art & way of fighting games](https://fighting.willowolf.com), the will to organize, r&d, play, 'n share our love for fighting games
+
 ---
 
 ### notes:
