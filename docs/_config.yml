@@ -2,9 +2,9 @@ title: 'willowolf: the spiritual wills of rathewolf' # automatically fetched fro
 #title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default; keep 'willowolf' for consistency and SEO purposes
 #description: 'the spiritual wills of rathewolf' #the altruistic desires of rathewolf: his wills, manifested digitally.
 
-#theme: jekyll-theme-tactile # minima is the default theme
+theme: jekyll-theme-minimal # minima is the default theme
 #remote_theme: rahil627/jekyll-klise # piharpi/jekyll-klise # has an error # see jekyll.txt in your notes for more themes
-remote_theme: BDHU/minimalist
+# remote_theme: BDHU/minimalist
 #remote_theme: rahil627/minimalist
 
 title-short: 'willowolf'
