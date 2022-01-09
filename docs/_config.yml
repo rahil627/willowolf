@@ -5,9 +5,10 @@ title: 'willowolf: the spiritual wills of rathewolf' # automatically fetched fro
 #theme: jekyll-theme-tactile # minima is the default theme
 #remote_theme: rahil627/jekyll-klise # piharpi/jekyll-klise # has an error # see jekyll.txt in your notes for more themes
 #remote_theme: rahil627/minima-custom
-remote_theme: jekyll/minima
+#remote_theme: BDHU/minimalist
+
 
 title-short: 'willowolf'
 
-minima:
-  skin: dark
+#minima:
+#  skin: dark
