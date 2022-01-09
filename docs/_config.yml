@@ -12,3 +12,6 @@ title-short: 'willowolf'
 
 #minima:
 #  skin: dark
+
+#minimal/minimalist
+site.color-scheme: dark
