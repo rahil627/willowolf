@@ -9,7 +9,7 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
 
 ---
 
-![](graveyard-of-fireflies.jpg?raw=true)
+![](assets/images/graveyard-of-fireflies.jpg?raw=true) 
 
 ---
   
