@@ -16,8 +16,8 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
   
 ### the willowolves:
 [nature's guardians: *the natural way of life*](https://natural.willowolf.com/), the will to organize, r&d, 'n share our love for making ways of make a better world :) :)  
-[experimental game anarchy: *the art & way of experimental games*](https://experimental.willowolf.com), the will to organize, r&d, *play(!!!)*, 'n share our love for experimental games  
-[fighting game anarchy: *the art & way of fighting games*](https://fighting.willowolf.com), the will to organize, r&d, play, 'n share our love for fighting games
+[experimental game anarchy: *the way of experimental games*](https://experimental.willowolf.com), the will to organize, r&d, *play(!!!)*, 'n share our love for experimental games  
+[fighting game anarchy: *the way of fighting games*](https://fighting.willowolf.com), the will to organize, r&d, play, 'n share our love for fighting games
 
 
 ### notes:
