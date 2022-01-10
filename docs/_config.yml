@@ -12,8 +12,7 @@ color-scheme: auto-default-dark
 
 # custom
 title-short: willowolf
-footer:
-  side: a project by <a href="https://rathewolf.com">rathewolf</a>
+footer: a project by <a href="https://rathewolf.com">rathewolf</a>
 nav:
   1: "<a href='https://natural.willowolf.com'>natural<a>"
   2: "<a href='https://experimental.willowolf.com'>experimental<a>"
