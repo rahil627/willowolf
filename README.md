@@ -28,6 +28,11 @@ all *should* share good values: informal, *street*, *community-oriented*, *diy*,
 each of these organizations derive from a will i have and had for a long long period of time
 
 
+# thoughts
+my interest in anti-civilization / eco-feminism / anarchy / etc. doesn't need a comunnity. I think it's just my personal intellectual way of understanding what's exactly wrong with civilizaition (industrialized farming, urban development, cars, institutions, governments: everything), not really a practice as permaculture is. It's more of a path that led to permaculture, by rationally justifying permaculture 'n existing primitive traditional cultures.
+  - nah, it does deserve a community!! if i took this route, then so can many others!! It might not be as practical or a life-long passion, but it's still extremely important. It *lucidly* tells one what's wrong with civilization, which eventually leads one to stay out.
+
+
 # notes
 style: should be a similar style to rathewolf: hand-drawn (digital or not). more ethereal, as these are my wills: dreamy, faded colors 'n outlines, like a faded drawing.
 
