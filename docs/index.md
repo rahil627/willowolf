@@ -10,9 +10,9 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
 ### the willowolves:
 [nature's guardians: *the natural way of life*](https://natural.willowolf.com/)  
 my will to organize peoples, info, 'n tools;  build tools, r&d, 'n share my love for making ways of make a better world :) :)    
-[experimental game anarchy: *the way of experimental games*](https://experimental.willowolf.com)  
+[saturn valley: *the way of experimental games*](https://experimental.willowolf.com)  
 my will to organize people, info, 'n tools; build tools, r&d, *play(!!!)*, 'n share my love for experimental games  
-[fighting game anarchy: *the way of fighting games*](https://fighting.willowolf.com)  
+[conceptual fighting: *the way of fighting games*](https://fighting.willowolf.com)  
 my will to organize people, info, 'n tools;  build tools, r&d, play, 'n share my love for fighting games  
 
 ---
