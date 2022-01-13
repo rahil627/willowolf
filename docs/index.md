@@ -8,9 +8,12 @@ welcome to
 a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. It’s also a spirit animal representing a will. :) It holds the web-sites of digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
   
 ### the willowolves:
-[nature's guardians: *the natural way of life*](https://natural.willowolf.com/), my will to organize peoples, info, 'n tools;  build tools, r&d, 'n share my love for making ways of make a better world :) :)  
-[experimental game anarchy: *the way of experimental games*](https://experimental.willowolf.com), my will to organize people, info, 'n tools; build tools, r&d, *play(!!!)*, 'n share my love for experimental games  
-[fighting game anarchy: *the way of fighting games*](https://fighting.willowolf.com), my will to organize people, info, 'n tools;  build tools, r&d, play, 'n share my love for fighting games
+[nature's guardians: *the natural way of life*](https://natural.willowolf.com/)  
+my will to organize peoples, info, 'n tools;  build tools, r&d, 'n share my love for making ways of make a better world :) :)    
+[experimental game anarchy: *the way of experimental games*](https://experimental.willowolf.com)  
+my will to organize people, info, 'n tools; build tools, r&d, *play(!!!)*, 'n share my love for experimental games  
+[fighting game anarchy: *the way of fighting games*](https://fighting.willowolf.com)  
+my will to organize people, info, 'n tools;  build tools, r&d, play, 'n share my love for fighting games  
 
 ---
 
