@@ -15,7 +15,7 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
 - my will to organize people and resources; build tools, r&d, *play(!!!)*, 'n share my love for experimental games
 
 [conceptual fighting: *the way of fighting games*](https://fighting.willowolf.com)
-my will to organize people and resources; build tools, r&d, play, 'n share my love for fighting games
+- my will to organize people and resources; build tools, r&d, play, 'n share my love for fighting games
 
 ---
 
