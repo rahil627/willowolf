@@ -2,6 +2,7 @@
 #title: forest # this will auto add it to the nav bar and h1
 #layout: default
 ---
+<div class="center">
 welcome to
 # {{ site.title-short }}
   
@@ -19,7 +20,7 @@ my will to organize people and resources; build tools, r&d, play, 'n share my lo
   
   
 ![](assets/images/graveyard-of-fireflies.jpg?raw=true) 
-
+</div>
 ### notes:
 generally, all *should* share 'n uphold good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, grassroots-like etc.
 
