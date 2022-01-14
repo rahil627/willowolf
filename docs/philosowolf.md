@@ -3,6 +3,9 @@ title: philosowolf
 layout: post
 ---
 
+todo: see if you can just set the dns to mirror this page at philosophical.willowolf.com
+then, decide which is better: mirror vs seperate github pages repo for each sub-domain
+
 welcome
 to
 # {{ post.title }}
