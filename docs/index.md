@@ -2,7 +2,7 @@
 #title: forest # this will auto add it to the nav bar and h1
 #layout: default
 ---
-<div class="center", markdown="1">
+<div class="center" markdown="1">
 welcome to
 # {{ site.title-short }}
   
