@@ -16,10 +16,9 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
 
 [conceptual fighting: *the way of fighting games*](https://fighting.willowolf.com)
 - my will to organize people and resources; build tools, r&d, play, 'n share my love for fighting games
-
+  
+  
 ![](assets/images/graveyard-of-fireflies.jpg?raw=true) 
-
----
 
 ### notes:
 generally, all *should* share 'n uphold good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, grassroots-like etc.
