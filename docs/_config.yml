@@ -1,6 +1,3 @@
-#theme: jekyll-theme-minimal # minima is the default theme
-#remote_theme: rahil627/jekyll-klise # piharpi/jekyll-klise # has an error # see jekyll.txt in your notes for more themes
-remote_theme: rahil627/minimalist-jekyll-theme-customized # on mobile devices, becomes two-column when the device turned sideways
 remote_theme: rahil627/minima-customized-jekyll-theme
 
 # standard
@@ -8,8 +5,12 @@ title: 'willowolf: the spiritual wills of rathewolf' # automatically fetched fro
 #title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default; keep 'willowolf' for consistency and SEO purposes
 #description: 'the spiritual wills of rathewolf' #the altruistic desires of rathewolf: his wills, manifested digitally.
 
-# minimal/minimalist
-color-scheme: auto-default-dark
+# theme vars
+# minimal/minimalist theme
+# color-scheme: auto-default-dark
+
+minima:
+  skin: dark
 
 # custom
 title-short: willowolf
