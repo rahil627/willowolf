@@ -1,18 +1,16 @@
+# build vars
 remote_theme: rahil627/minima-customized
 
-# standard
+# standard vars
 title: 'willowolf: the spiritual wills of rathewolf' # automatically fetched from the project name
 #title: will o' wolf # will-o'-wolf? # the domain name 'willowolf' is the default; keep 'willowolf' for consistency and SEO purposes
 #description: 'the spiritual wills of rathewolf' #the altruistic desires of rathewolf: his wills, manifested digitally.
 
 # theme vars
-# minimal/minimalist theme
-# color-scheme: auto-default-dark
-
 minima:
   skin: dark
 
-# custom
+# custom vars
 title-short: willowolf
 footer: a project by <a href="https://rathewolf.com">rathewolf</a>
 nav:
