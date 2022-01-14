@@ -1,7 +1,7 @@
 #theme: jekyll-theme-minimal # minima is the default theme
 #remote_theme: rahil627/jekyll-klise # piharpi/jekyll-klise # has an error # see jekyll.txt in your notes for more themes
 remote_theme: rahil627/minimalist-jekyll-theme-customized # on mobile devices, becomes two-column when the device turned sideways
-#remote_theme: rahil627/minima-customized-jekyll-theme
+remote_theme: rahil627/minima-customized-jekyll-theme
 
 # standard
 title: 'willowolf: the spiritual wills of rathewolf' # automatically fetched from the project name
