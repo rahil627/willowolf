@@ -5,7 +5,7 @@
 welcome to
 # {{ site.title-short }}
   
-a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. This site is just a transportation hub to web-sites of digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
+a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. *This* site is merely serves as a map to digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
   
 ### the willowolves:
 [nature's guardians: *the natural way of life*](https://natural.willowolf.com/)
