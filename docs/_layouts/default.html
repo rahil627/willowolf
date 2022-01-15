@@ -5,6 +5,7 @@
   {%- include head.html -%}
 
   <body class="body-class">
+    <div class="fireflies-container">
     {%- include header.html -%}
     
     <!-- add fireflies -->
@@ -14,7 +15,7 @@
             fireFlies({
                 "number_flies": 100,
                 "color": "#fff",
-                "elem": "#body-class"
+                "elem": "#fireflies-container"
             });
         })();
     </script>
@@ -27,7 +28,7 @@
     </main>
 
     {%- include footer.html -%}
-
+    </div> <!-- fireflies container -->
   </body>
 
 </html>
