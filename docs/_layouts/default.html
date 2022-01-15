@@ -1,0 +1,20 @@
+<!-- all other layouts inherit from this one -->
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    {%- include header.html -%}
+    <!-- liquid doesn't have a not operator? wtf?? -->
+    <main class="page-content" aria-label="Content" {{% if site.text-align %}} style="text-align: {{ site.text-align }} ;" {{% endif %}} >
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
