@@ -10,13 +10,13 @@ a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his
 </div>
 
 ### the willowolves:
-[nature's guardians: *the natural way of life*](https://natural.willowolf.com/)  
+[gorge's guardians: *the natural way of life*](https://natural.willowolf.com/)  
 my will to organize peoples and resources;  build tools, r&d, 'n share my love for making ways of make a better world :) :)
 
-[saturn valley: *the way of experimental games*](https://experimental.willowolf.com)  
+[saturn valley: *the dao of experimental games*](https://experimental.willowolf.com)  
 my will to organize people and resources; build tools, r&d, *play(!!!)*, 'n share my love for experimental games
 
-[conceptual fighting: *the way of fighting games*](https://fighting.willowolf.com)  
+[conceptual fighting: *the dao of fighting games*](https://fighting.willowolf.com)  
 my will to organize people and resources; build tools, r&d, play, 'n share my love for fighting games
   
   
