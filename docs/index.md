@@ -7,10 +7,10 @@ welcome to
 # {{ site.title-short }}
   
 a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. *This* sit merely serves as a map to digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
-</div>
 
 ![](assets/images/graveyard-of-fireflies.jpg?raw=true) 
 
+</div>
 ### the willowolves:
 [gorge's guardians: *the natural way of life*](https://natural.willowolf.com/)  
 my will to organize peoples and resources;  build tools, r&d, 'n share my love for making ways of make a better world :) :)
