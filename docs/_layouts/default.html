@@ -4,12 +4,16 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body class="body-class">
     {%- include header.html -%}
     <script src='assets/js/fireflies.js'></script>
     <script>
-        (function() {
-            fireFlies();
+      (function() {
+            fireFlies({
+                "number_flies": 100,
+                "color": "#fff",
+                "elem": "#body-class"
+            });
         })();
     </script>
     <!-- liquid doesn't have a not operator? wtf?? -->
