@@ -6,7 +6,7 @@
 welcome to
 # {{ site.title-short }}
   
-a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. *This* sit merely serves as a map to digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
+a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. *This* site merely serves as a map to digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
 
 ![](assets/images/graveyard-of-fireflies.jpg?raw=true) 
 
