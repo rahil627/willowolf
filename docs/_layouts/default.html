@@ -5,14 +5,16 @@
   {%- include head.html -%}
 
   <body>
-    <div class="fireflies-container">
     {%- include header.html -%}
     
     <!-- add fireflies -->
     <script src='assets/js/fireflies.js'></script>
     <script>
       (function() {
-            fireFlies();
+            fireFlies({
+                "number_flies": 100, //defualt is 40
+                "color": '#ffb149' //default is orange: '#ffb149'
+                //"elem": '#fireflies-container' //default 'is body'
         })();
     </script>
     
@@ -24,7 +26,6 @@
     </main>
 
     {%- include footer.html -%}
-    </div>
   </body>
 
 </html>
