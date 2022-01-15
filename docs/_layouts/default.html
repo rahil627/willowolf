@@ -6,6 +6,12 @@
 
   <body>
     {%- include header.html -%}
+    <script src='assets/js/fireflies.js'></script>
+    <script>
+        (function() {
+            fireFlies();
+        })();
+    </script>
     <!-- liquid doesn't have a not operator? wtf?? -->
     <main class="page-content" aria-label="Content" {{% if site.text-align %}} style="text-align: {{ site.text-align }} ;" {{% endif %}} >
       <div class="wrapper">
