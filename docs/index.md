@@ -9,6 +9,8 @@ welcome to
 a digital space for [rathewolf](https://rathewolf.com)'s altruistic desires: his wills, manifested digitally. *This* sit merely serves as a map to digital organizations, digital tools, 'n other digital stuffs i've organized/made for *the people*.
 </div>
 
+![](assets/images/graveyard-of-fireflies.jpg?raw=true) 
+
 ### the willowolves:
 [gorge's guardians: *the natural way of life*](https://natural.willowolf.com/)  
 my will to organize peoples and resources;  build tools, r&d, 'n share my love for making ways of make a better world :) :)
@@ -19,8 +21,7 @@ my will to organize people and resources; build tools, r&d, *play(!!!)*, 'n shar
 [conceptual fighting: *the dao of fighting games*](https://fighting.willowolf.com)  
 my will to organize people and resources; build tools, r&d, play, 'n share my love for fighting games
   
-  
-![](assets/images/graveyard-of-fireflies.jpg?raw=true) 
+---
 
 ### notes:
 generally, all *should* share 'n uphold good values: informal, *street*, *community-oriented*, *diy*, punk, *anarchist*, feminist theory, grassroots-like etc.
