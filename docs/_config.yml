@@ -14,10 +14,5 @@ minima:
 title-short: willowolf
 footer:
   left: a project by <a href="https://rathewolf.com">rathewolf</a>
-  
-# other vars
-# convert newlines properly
-kramdown:
-  input: GFM
-  hard_wrap: true
+ 
   
