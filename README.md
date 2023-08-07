@@ -4,7 +4,6 @@ a digital space for my altruistic desires: my wills, manifested digitally. It’
 
 this repo contains the site for www.willowolf.com, which itself contains tiny or temporary homes for my wills/projects; If or when the project needs it's own sub-domain, it'll naturally find it's own home in one.
 
-# *copied from the home-page (likely out-dated)*:
 ![](docs/assets/images/graveyard-of-fireflies.jpg?raw=true)
 
 
