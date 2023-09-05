@@ -12,8 +12,6 @@ a digital space for [rathewolf](https://www.rathewolf.com)'s altruistic desires:
 
 </div>
 
-...sadly, i lost my domain willowolf.com to some Japanese company generically titled "GMO Internet, Inc." :( :( wtttfff
-
 ### the willowolves:
 [gorge's guardians: *the natural way of life*](https://natural.willo.rathewolf.com/)  
 my will to organize peoples and resources;  build tools, r&d, 'n share my love for making ways of make a better world :) :)
